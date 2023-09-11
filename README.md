@@ -4,7 +4,7 @@ Trabajo de: Jose Edmundo Romo Castillo Matricula: A01197772
 ## Portafolio de Implementacion
 **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework (Portafolio Implementacion)**
 
-Link del repositorio: https://github.com/Jromoc/Indiv-Modulo2
+Link del repositorio: [https://github.com/Jromoc/Indiv-Modulo2](https://github.com/Jromoc/Modulo2_TC3006C.101_A01197772/tree/main/ML/Entregable1)
 
 **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)**
 

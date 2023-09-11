@@ -29,6 +29,8 @@ Link del repositorio: [https://github.com/Jromoc/Mod_2_Analisis_y_Reporte](https
 **Momento de Retroalimentación: Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos (Portafolio Análisis)**
 
 ### Reporte Final
+
+Link del repositorio: https://github.com/Jromoc/Modulo2_TC3006C.101_A01197772/tree/main/Estadistica 
 ### Archivos a evaluar de cada repositorio
 
 Del primer repositorio se estara evaluando el archivo con nombre "main.ipynb" Link del codigo: [https://github.com/Jromoc/Indiv-Modulo2/blob/main/main.ipynb](https://github.com/Jromoc/Modulo2_TC3006C.101_A01197772/blob/main/ML/Entregable1/main.ipynb)

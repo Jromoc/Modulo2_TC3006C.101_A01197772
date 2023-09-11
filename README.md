@@ -19,8 +19,8 @@ Link del repositorio: https://github.com/Jromoc/Mod_2_Analisis_y_Reporte
 
 ## Archivos a evaluar de cada repositorio
 
-Del primer repositorio se estara evaluando el archivo con nombre "main.ipynb"
+Del primer repositorio se estara evaluando el archivo con nombre "main.ipynb" Link del codigo: https://github.com/Jromoc/Indiv-Modulo2/blob/main/main.ipynb
 
-Del segundo repositorio se estara evaluando el archivo con nombre "main.ipynb"
+Del segundo repositorio se estara evaluando el archivo con nombre "main.ipynb" Link del codigo: https://github.com/Jromoc/M-dulo-2-Uso-de-framework/blob/main/main.ipynb
 
-Del tercer repositorio se estara evaluando el archivo con nombre "decision_tree.ipynb"
+Del tercer repositorio se estara evaluando el archivo con nombre "decision_tree.ipynb" Link del codigo: https://github.com/Jromoc/Mod_2_Analisis_y_Reporte/blob/main/decision_tree.ipynb

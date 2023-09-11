@@ -14,4 +14,4 @@ Link del repositorio: https://github.com/Jromoc/Mod_2_Analisis_y_Reporte
 
 ## Archivos a evaluar de cads repositorio
 
-*decision_tree.ipynb*
+**decision_tree.ipynb**

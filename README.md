@@ -3,17 +3,24 @@ Trabajo de: Jose Edmundo Romo Castillo Matricula: A01197772
 
 ## Portafolio de Implementacion
 **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework (Portafolio Implementacion)**
+
 Link del repositorio: https://github.com/Jromoc/Indiv-Modulo2
 
 **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)**
+
 Link del repositorio: https://github.com/Jromoc/M-dulo-2-Uso-de-framework
 
 ## Portafolio de Analisis
 **Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)**
+
 Link del repositorio: https://github.com/Jromoc/Mod_2_Analisis_y_Reporte
 
 
 
-##a Archivos a evaluar de cads repositorio
+## Archivos a evaluar de cada repositorio
 
-**decision_tree.ipynb**
+Del primer repositorio se estara evaluando el archivo con nombre "main.ipynb"
+
+Del segundo repositorio se estara evaluando el archivo con nombre "main.ipynb"
+
+Del tercer repositorio se estara evaluando el archivo con nombre "decision_tree.ipynb"

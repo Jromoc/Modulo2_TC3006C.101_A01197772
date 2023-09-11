@@ -8,7 +8,7 @@ Link del repositorio: [https://github.com/Jromoc/Indiv-Modulo2](https://github.c
 
 **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)**
 
-Link del repositorio: https://github.com/Jromoc/M-dulo-2-Uso-de-framework
+Link del repositorio: [https://github.com/Jromoc/M-dulo-2-Uso-de-framework](https://github.com/Jromoc/Modulo2_TC3006C.101_A01197772/tree/main/ML/Entregable2)
 
 ## Portafolio de Analisis
 **Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)**

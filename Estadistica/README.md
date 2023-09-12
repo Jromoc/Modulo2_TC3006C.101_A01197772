@@ -119,6 +119,12 @@ Aqui se puede apreciar lo anterior mencionado, el como todas las variables junta
 
 ```{r}
 knitr::opts_chunk$set(echo = FALSE)
+R3a=lm(data$price~data$carwidth + data$curbweight +data$enginesize + data$horsepower,data=columnas_usar)
+S=summary(R3a)
+#S
+```
+```{r}
+knitr::opts_chunk$set(echo = FALSE)
 E=R3a$residuals
 Y=R3a$fitted.values
 
@@ -129,21 +135,10 @@ hist(E,col="lightcyan",freq=FALSE,main="Histograma de Residuos",ylim=c(0,0.0002)
 lines(density(E),col="red")
 curve(dnorm(x,mean=mean(E),sd=sd(E)), add=TRUE, col="blue",lwd=2)
 ```
+Lo que se mostro en la explicacion anterior se puede apreciar como se tiene un sesgo positvo, ya que la media se carga a la derecha. Y en el grafico superior tenemos un sesgo y heterocedasticidad.
 
 ## Conclusion
 
 Lo que se encontro fue que las variables: enginesize, cubrweight, horsepower, carwidth, cylindernumber y citympg; las cuales tienen una gran correlacion con la variable dinero, se pudo determinar que las que mayor impacto se tiene de estas 6 variables son : "carwidth", "curbweight", "enginesize" y "horsepower". Estas 4 variables representan una relacion con la subida de precios, entre mayor sea el valor de las variables, el precio subira. 
 
 Por lo tanto si se tiene un automovil mas ancho, mas peso, con mayor caballaje y un motor mas grande, se tendria que tener un precio superior que si se tuviera todo lo contrario. Y lo que podemos concluir es que los automoviles posiblemente los SUV o Pick Ups por sus dimensiones, y que tengan un motor muy potenten gracias a sus caballos de fuerza, son muy apreciados en el pais objetivo. Esto demostrando que se busca un automovil grande y comodo, que estas dos palabras cuando se trata de automoviles van de la mano, y que tenga una gran fuerza.
-
-
-
-
-
-
-
-
-
-
-
-
